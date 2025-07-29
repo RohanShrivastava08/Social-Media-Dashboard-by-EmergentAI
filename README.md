@@ -5,7 +5,22 @@ It gives you a unified view of your social stats with a sleek UI and real-time v
 
 ---
 
-![Dashboard Preview](preview.png) <!-- Replace with your image path if available -->
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/ae61e9a4-513f-45b4-a028-5661f4112787" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/9c944f8b-4c0d-4fa9-8e7b-bcf32ebee578" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/80a7cb8f-6b2e-48c5-9a60-84882f3bb01c" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/d8542cb6-530e-4735-9a6f-b94e65016c86" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/846dc28d-1337-4d3f-b6ea-7309fb69e81a" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/6c8df112-cca2-4f17-a3c1-8f8bcb76fa8d" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/f0c99926-f06c-4cac-8f95-9b0d071f04b1" />
+
+<img width="1454" height="792" alt="Image" src="https://github.com/user-attachments/assets/8e2efc73-eb70-4568-8b56-6797aa495bd1" />
+
 
 ## 🧠 Project Overview
 
