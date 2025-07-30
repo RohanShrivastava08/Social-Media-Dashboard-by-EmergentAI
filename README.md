@@ -1,10 +1,5 @@
 # 🚀 Social Media Dashboard
 
-An amazing, clean, and responsive **Social Media Dashboard** built using **Emergent Vibe Coder**.  
-It gives you a unified view of your social stats with a sleek UI and real-time vibe!
-
----
-
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/ae61e9a4-513f-45b4-a028-5661f4112787" />
 
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/9c944f8b-4c0d-4fa9-8e7b-bcf32ebee578" />
@@ -20,6 +15,10 @@ It gives you a unified view of your social stats with a sleek UI and real-time v
 <img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/f0c99926-f06c-4cac-8f95-9b0d071f04b1" />
 
 <img width="1454" height="792" alt="Image" src="https://github.com/user-attachments/assets/8e2efc73-eb70-4568-8b56-6797aa495bd1" />
+
+
+- An amazing, clean, and responsive **Social Media Dashboard** built using **Emergent Vibe Coder**.  
+- It gives you a unified view of your social stats with a sleek UI and real-time vibe!
 
 
 ## 🧠 Project Overview
