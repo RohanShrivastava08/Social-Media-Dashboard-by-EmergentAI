@@ -26,7 +26,7 @@
 This dashboard aggregates and presents social media metrics like followers, likes, shares, and engagement — all in one place.  
 Designed with a modern UI/UX focus using **Emergent Vibe Coder**, this project showcases how data and design can merge beautifully.
 
----
+
 
 ## ✨ Features
 
@@ -37,7 +37,7 @@ Designed with a modern UI/UX focus using **Emergent Vibe Coder**, this project s
 - 🎨 **Smooth UI Interactions** and hover effects  
 - 🔥 Built using **Emergent Vibe Coder's** intuitive low-code setup
 
----
+
 
 ## 📸 Screenshots
 
@@ -48,7 +48,7 @@ Designed with a modern UI/UX focus using **Emergent Vibe Coder**, this project s
 
 *(Replace this section with images if you have)*
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -59,7 +59,7 @@ Designed with a modern UI/UX focus using **Emergent Vibe Coder**, this project s
 | 💡 JS / Logic Layer | Component interactions *(via Vibe)*  |
 | 📁 JSON (Mock Data) | Used to simulate real-time stats      |
 
----
+
 
 ## 🚀 How to Use
 
@@ -71,7 +71,7 @@ Designed with a modern UI/UX focus using **Emergent Vibe Coder**, this project s
 4. Customize stats, themes, and links as per your needs.
 5. Hit **Preview/Publish** and enjoy your Social Media Dashboard!
 
----
+
 
 ## 📂 Folder Structure
 
@@ -82,6 +82,8 @@ Designed with a modern UI/UX focus using **Emergent Vibe Coder**, this project s
 ├── data/             # Mock JSON Data
 ├── styles/           # Global and Component styles
 └── index.vibe        # Main Vibe Coder Project File
+```
+
 💡 Future Improvements
 ✅ Add real API integrations (Instagram, Twitter, etc.)
 
